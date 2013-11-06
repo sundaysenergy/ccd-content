@@ -1,3 +1,7 @@
+---
+title: "How a Community Can Resolve Any Issue"
+---
+
 # I. How a Community Can Resolve Any Issue
 
 Many communities struggling with a divisive issue will schedule a town meeting to try to find a solution that all sides can accept. But typically, many people want to air their opinions, and the issue may be so controversial that the opposing camps have nowhere near enough time to iron out their differences. Even if the meeting breaks into small groups and facilitators help some of those groups find common ground, everyone else at the meeting may have little interest in a proposal they had no hand in developing.

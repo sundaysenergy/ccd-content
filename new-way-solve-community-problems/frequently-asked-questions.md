@@ -1,3 +1,7 @@
+---
+title: "Frequently Asked Questions"
+---
+
 # Frequently Asked Questions
 
 _**Many people enter politics to obtain power and status more than to serve the public. Could PAR have any effect on this? **_

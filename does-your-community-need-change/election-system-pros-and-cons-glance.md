@@ -1,3 +1,7 @@
+---
+title: "Election System Pros and Cons at a Glance"
+---
+
 # Election System Pros and Cons at a Glance
 
 **One-winner-per-district elections:**

@@ -1,3 +1,7 @@
+---
+title: "Board of Directors"
+---
+
 # Board of Directors 
 
 **Eugene Brody**

@@ -1,3 +1,7 @@
+---
+title: "The Single Transferable Vote"
+---
+
 # The Single Transferable Vote 
 
 The single transferable vote — STV — is the proportional election system that 22 American cities tried between 1915 and the 1950s. With STV, as in other proportional systems, a typical voter is likely to get at least one representative who shares the voter’s political orientation, far more likely than with America’s current majoritarian system. Even so, of the original 22 cities that tried STV, only one still uses it: Cambridge, Massachusetts.
