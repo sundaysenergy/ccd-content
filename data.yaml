@@ -3,4 +3,55 @@
 site_name: Center for Collaborative Democracy
 footer: Copyright 2013 by the Center for Collaborative Democracy
 
+navigation:
+  -
+    title: Home
+    path: /index.html
+  -
+    title: About
+    path: /about-ccd
+    children:
+      -
+        title: Board of Directors
+        path: /about-ccd/board-directors.html
+  -
+    title: A New Way to Solve Community Problems
+    path: /new-way-solve-community-problems
+    children:
+      -
+        title: How America Could Resolve Any Issue
+        path: /new-way-solve-community-problems/how-america-could-resolve-any-issue.html
+      -
+        title: How Your Community Can Find the “Right” Representatives
+        path: /new-way-solve-community-problems/how-your-community-can-find-representatives.html
+      -
+        title: Frequently Asked Questions
+        path: /new-way-solve-community-problems/frequently-asked-questions.html
+  -
+    title: Alternative Ways to Choose Representatives
+    path: /alternative-ways-choose-representatives
+    children:
+      -
+        title: The Single Transferable Vote
+        path: /alternative-ways-choose-representatives/single-transferable-vote
+  -
+    title: Does Your Community Need a Change?
+    path: /does-your-community-need-change/index.html
+    children:
+      -
+        title: How a Community Can Resolve Any Issue
+        path: /does-your-community-need-change/how-community-can-resolve-any-issue.html
+      -
+        title: Steps to Reform
+        path: /does-your-community-need-change/steps-reform-your-community.html
+      -
+        title: Election System Pros and Cons at a Glance
+        path: /does-your-community-need-change/election-system-pros-and-cons-glance.html
+  -
+    title: How Any Legislature Can Reach Consensus
+    path: /how-any-legislature-can-reach-consensus.html
+  -
+    title: How To Fix America's Broken Government
+    path: /fix-americas-broken-government.html
+
 ---
