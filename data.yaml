@@ -10,6 +10,7 @@ navigation:
   -
     title: About
     path: /about-ccd
+    has_children: true
     children:
       -
         title: Board of Directors
@@ -17,6 +18,7 @@ navigation:
   -
     title: A New Way to Solve Community Problems
     path: /new-way-solve-community-problems
+    has_children: true
     children:
       -
         title: How America Could Resolve Any Issue
@@ -30,6 +32,7 @@ navigation:
   -
     title: Alternative Ways to Choose Representatives
     path: /alternative-ways-choose-representatives
+    has_children: true
     children:
       -
         title: The Single Transferable Vote
@@ -37,6 +40,7 @@ navigation:
   -
     title: Does Your Community Need a Change?
     path: /does-your-community-need-change/index.html
+    has_children: true
     children:
       -
         title: How a Community Can Resolve Any Issue
