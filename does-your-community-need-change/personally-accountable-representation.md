@@ -1,3 +1,7 @@
+---
+title: "Personally Accountable Representation"
+---
+
 # Personally Accountable Representation
 
 Personally Accountable Representation (PAR) is a process by which each lawmaker becomes directly responsible to a group of citizens who all share his or her political outlook. To create this relationship between each representative and his or her constituents requires the following steps:

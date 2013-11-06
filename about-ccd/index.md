@@ -1,3 +1,7 @@
+---
+title: "About CCD"
+---
+
 # About CCD
 
 The **Center for Collaborative Democracy** is a non-profit, nonpartisan, tax exempt 501 (c) 3 organization. Our mission is to develop innovative methods that will encourage Americans to participate constructively in civic life and will enable communities to reach optimal decisions on critical issues.

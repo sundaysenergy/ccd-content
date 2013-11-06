@@ -1,8 +1,8 @@
+---
+title: "How America Could Resolve Any Issue"
+---
+
 # How America Could Resolve Any Issue*
-
-![Printer-friendly version][1][Printer-friendly version][2]
-
-**To view this article as a pdf file, [click here][3]**
 
 For every controversy dividing our country, there are representatives who have the knowledge, the tenacity and the standing to find practical solutions—and then win support for those solutions from Americans of all stripes. As you might expect, many people find that claim hard to believe, given the bitter tone of politics in these times. But we have found that there are ways to persuade even the most skeptical Americans that our country could find genuine solutions to even the most divisive issues. One such conversation with a lifelong political activist—a liberal, it turned out—went essentially like this:
 

@@ -1,3 +1,7 @@
+---
+title: 'Center for Collaborative Democracy'
+---
+
 **We Help Communities Solve Chronic** **Problems**
 
 If your city or town is struggling with a long-standing controversy, CCD can help organize a group of community residents who will be in the best position to negotiate a constructive solution.
