@@ -40,7 +40,17 @@ To see how your community can apply this approach, [click here][1].
 
 To see how the whole country could use this approach to resolve any national issue, [click here][2].
 
-* * *
+***
+
+*1 Sustainable America: A New Consensus for Prosperity, Opportunity, and a Healthy Environment for the Future (U.S. Government Printing Office, 1996).
+
+2 The 21st Century Retirement Security Plan: The National Commission on Retirement Policy Final Report (Washington: Center for Strategic and International Studies, 1999)
+
+3 Ending the Energy Stalemate: A Bipartisan Strategy to Meet America's Energy Challenges and the website www.energycommission.org
+
+4 A Vision for Consumer-Driven Health Care Reform (The Consensus Group, 1999) [http://www.galen.org/fileuploads/vision.pdf](http://www.galen.org/fileuploads/vision.pdf)
+
+5 Negotiated Rulemaking Sourcebook by David Pritzker and Deborah Dalton (U.S. Government Printing Office, 1995).*
 
    [1]: http://www.genuinerepresentation.org/content/how-your-community-can-find-representatives
    [2]: http://www.genuinerepresentation.org/content/how-america-could-resolve-any-issue
