@@ -60,4 +60,6 @@ PAR, by contrast, gives every council member a strong incentive to find practica
 
 * * *
 
+*7 See The Cure for Our Broken Political Process by Sol Erdman and Lawrence Susskind (Potomac Books, 2008). Chapter 7, "Why Do Most Voters Feel So Powerless?"*
+
    [1]: http://www.genuinerepresentation.org/content/single-transferable-vote
