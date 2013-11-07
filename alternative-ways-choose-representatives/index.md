@@ -2,7 +2,7 @@
 title: "Alternative Ways to Choose Representatives"
 ---
 
-# Alternative Ways to Choose Representatives
+## Alternative Ways to Choose Representatives
 
 Most communities select the members of their town or city council by one of three methods:
 

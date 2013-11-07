@@ -2,7 +2,7 @@
 title: "Steps to Reform in Your Community"
 ---
 
-# Steps to Reform in Your Community
+## Steps to Reform in Your Community
 
 **STEP 1: Know the Terrain**
 

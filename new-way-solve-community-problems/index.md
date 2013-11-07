@@ -2,7 +2,7 @@
 title: "A New Way to Solve Community Problems"
 ---
 
-# A New Way to Solve Community Problems
+## A New Way to Solve Community Problems
 
 Every town and city consists of diverse groups, including young adults, the middle-aged and senior citizens; blue-collar workers, white-collar workers and the unemployed; singles, couples, families and one-parent households; liberals, conservatives and most points in between. Each of these groups has its own needs, values and interests, which may collide with other groups' needs, values and interests.  
 

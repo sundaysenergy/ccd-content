@@ -2,7 +2,7 @@
 title: "How Any Legislature Can Reach Consensus"
 ---
 
-# How Any Legislature Can Reach Consensus
+## How Any Legislature Can Reach Consensus
 
 An open letter to city and state lawmakers:
 

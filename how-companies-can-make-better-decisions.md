@@ -2,7 +2,7 @@
 title: "How Companies Can Make Better Decisions"
 ---
 
-# How Companies Can Make Better Decisions
+## How Companies Can Make Better Decisions
 
 Whenever a company changes its direction, mission statement or corporate culture, it usually needs the maximum amount of support from employees. Therefore, many businesses in this situation assemble a representative group of employees who will work with management to formulate a strategy. Usually, the managers pick employees from various departments or corporate functions.
 

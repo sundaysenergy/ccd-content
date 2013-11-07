@@ -2,7 +2,7 @@
 title: 'How Your Community Can Find the “Right” Representatives'
 ---
 
-# How Your Community Can Find the “Right” Representatives
+## How Your Community Can Find the “Right” Representatives
 
 Imagine if each member of your town or city council was personally responsible to a group of citizens who all shared his or her priorities for the community. Each council member would then have one practical way to advance the agenda that he and his constituents shared: He would have to negotiate creative deals with representatives for other camps. Each council member could then explain to his own constituents in convincing detail how these deals would advance their own cause.
 
