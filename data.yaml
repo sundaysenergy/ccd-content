@@ -36,7 +36,7 @@ navigation:
     children:
       -
         title: The Single Transferable Vote
-        path: /alternative-ways-choose-representatives/single-transferable-vote
+        path: /alternative-ways-choose-representatives/single-transferable-vote.html
   -
     title: Does Your Community Need a Change?
     path: /does-your-community-need-change/index.html
