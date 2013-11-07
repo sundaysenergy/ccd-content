@@ -51,11 +51,23 @@ navigation:
       -
         title: Election System Pros and Cons at a Glance
         path: /does-your-community-need-change/election-system-pros-and-cons-glance.html
+      -
+        title: Personally Accountable Representation at a Glance
+        path: /does-your-community-need-change/personally-accountable-representation.html
   -
     title: How Any Legislature Can Reach Consensus
     path: /how-any-legislature-can-reach-consensus.html
   -
     title: How To Fix America's Broken Government
     path: /fix-americas-broken-government.html
+  -
+    title: How Companies Can Make Better Decisions
+    path: /how-companies-can-make-better-decisions.html
+  -
+    title: Get Involved
+    path: /get-involved.html
+  -
+    title: Contact Us
+    path: /contact-us.html
 
 ---
