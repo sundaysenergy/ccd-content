@@ -3,9 +3,11 @@ title: 'Center for Collaborative Democracy'
 post_class: 'mainpage'
 ---
 
-## **We Help Communities Solve Chronic** **Problems**
+## Overcoming Gridlock to Build Nationwide Prosperity
 
--   If your city or town is struggling with a long-standing controversy, CCD can help organize a group of community residents who will be in the best position to negotiate a constructive solution.
+-   We Help Communities Solve Chronic Problems
+    
+    If your city or town is struggling with a long-standing controversy, CCD can help organize a group of community residents who will be in the best position to negotiate a constructive solution.
 
     If your town council or school board has been struggling with chronic problems, we can help your community reorganize the council or board so that it will be better equipped to develop fair, intelligent solutions.
 
