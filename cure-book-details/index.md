@@ -1,5 +1,6 @@
 ---
-title: 'The Book Heralding CCD's Methods'
+title: "The Book Heralding CCD's Methods"
+
 ---
 
 # The Book Heralding CCD's Methods
