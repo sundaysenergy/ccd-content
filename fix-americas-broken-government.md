@@ -14,4 +14,4 @@ AttachmentSize
 [par1105.pdf][1]
 1.42 MB
 
-   [1]: http://www.genuinerepresentation.org/sites/genuinerepresentation.org/files/par1105.pdf
+   [1]: /files/par1105.pdf

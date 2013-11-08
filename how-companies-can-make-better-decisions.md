@@ -32,4 +32,4 @@ By linking every employee to the decision-making, Personally Accountable Represe
 
 * * *
 
-* The candidate who is the first choice of the fewest employees is taken out of the running. All the votes cast for that candidate count toward his backers' second choices. Then, the candidate with the fewest first and second choice votes combined is dropped from the running. All the votes for her count toward her backers' next choices. This process is repeated, until all the remaining candidates have a minimum threshold of support, say three percent of the company.
+\* The candidate who is the first choice of the fewest employees is taken out of the running. All the votes cast for that candidate count toward his backers' second choices. Then, the candidate with the fewest first and second choice votes combined is dropped from the running. All the votes for her count toward her backers' next choices. This process is repeated, until all the remaining candidates have a minimum threshold of support, say three percent of the company.
