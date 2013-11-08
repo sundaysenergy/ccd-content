@@ -72,6 +72,8 @@ PAR can also be used to elect an ad hoc body of representatives that is asked to
 
 * * *
 
+*6 Several local councils, such as the Livingston County Legislature in upstate New York, give each member voting power based on the number of his or her voters. This could even be done in the U.S. House of Representatives. That is, the Constitution says that each senator shall have one vote, but has no such restriction on representatives. Indeed, we believe the nation's founders would endorse this entire proposal. That is, they intended that  each representative have a bond of some substance with his constituents. (See The Federalist, Nos. 51, 52, 56 and 57.) And to create that kind of bond in these times, elections would have to be modified along the lines described here.*
+
    [1]: http://genuinerepresentation.org/sites/genuinerepresentation.org/files/u3/ballot3.png
    [2]: http://www.genuinerepresentation.org/content/does-your-community-need-change
    [3]: http://www.genuinerepresentation.org/content/how-community-can-resolve-any-issue
