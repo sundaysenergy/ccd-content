@@ -34,5 +34,5 @@ post_class: 'mainpage'
     For more information, [click here][2]
 
 
-[1]: http://www.genuinerepresentation.org/content/new-way-solve-community-problems
-[2]: http://genuinerepresentation.org/future
+[1]: /new-way-solve-community-problems/
+[2]: /files/forum968.pdf
