@@ -52,5 +52,5 @@ To see how the whole country could use this approach to resolve any national iss
 
 5 Negotiated Rulemaking Sourcebook by David Pritzker and Deborah Dalton (U.S. Government Printing Office, 1995).*
 
-   [1]: http://www.genuinerepresentation.org/content/how-your-community-can-find-representatives
-   [2]: http://www.genuinerepresentation.org/content/how-america-could-resolve-any-issue
+   [1]: /new-way-solve-community-problems/how-your-community-can-find-representatives.html
+   [2]: /new-way-solve-community-problems/how-america-could-resolve-any-issue.html

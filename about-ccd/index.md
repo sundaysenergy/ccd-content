@@ -12,4 +12,4 @@ CCD has done extensive research on political adversaries _outside_ of government
 
 Our current efforts are focused on providing communities with the tools that will enable them to develop creative solutions to long-standing conflicts.
 
-   [1]: http://www.genuinerepresentation.org/content/cure-book-details
+   [1]: /cure-book-details
