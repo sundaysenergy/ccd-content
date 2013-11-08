@@ -64,6 +64,6 @@ At any point in the above process, if you need additional information, please co
 
 *Adapted from FairVote.org
 
-   [1]: http://www.genuinerepresentation.org/content/election-system-pros-and-cons-glance
-   [2]: http://www.genuinerepresentation.org/content/personally-accountable-representation
+   [1]: /does-your-community-need-change/election-system-pros-and-cons-glance.html
+   [2]: /does-your-community-need-change/personally-accountable-representation.html
    [3]: http://www.genuinerepresentation.org (www.genuinerepresentation.org)
