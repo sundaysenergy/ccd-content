@@ -14,4 +14,4 @@ title: 'Search'
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:searchresults-only></gcse:searchresults-only>
+<div class="gcse-searchresults-only"></div>
