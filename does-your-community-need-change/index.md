@@ -16,5 +16,5 @@ If your answers to these questions are yes, and you are prepared to start a camp
 
 Alternatively, if your community faces one major problem that local government has been unable to resolve, you may want to consider electing an ad hoc group of citizens by Personally Accountable Representation (PAR) and giving them a mandate to propose a solution that the appropriate government body would then be asked to ratify. To see step-by-step how to organize that kind of body, [click here][2].
 
-   [1]: http://www.genuinerepresentation.org/content/steps-reform-your-community
-   [2]: http://www.genuinerepresentation.org/content/town-1
+   [1]: /does-your-community-need-change/steps-reform-your-community.html
+   [2]: /does-your-community-need-change/how-community-can-resolve-any-issue.html
