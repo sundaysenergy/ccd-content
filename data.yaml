@@ -68,6 +68,6 @@ navigation:
     path: /get-involved.html
   -
     title: Contact Us
-    path: /contact-us.html
+    path: /contact-us
 
 ---
