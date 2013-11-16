@@ -6,12 +6,12 @@ footer: Copyright 2013 by the Center for Collaborative Democracy
 top_nav:
   -
     title: Programs
-    path: '#'
+    path: "#"
     has_children: true
     children:
       -
         title: Forum for Long-Term Prosperity
-        path: '#'
+        path: "#"
       -
         title: New Ways to Solve Community Problems
         path: /new-way-solve-community-problems
@@ -102,4 +102,4 @@ navigation:
     title: Contact Us
     path: /contact-us
 
----
+...
