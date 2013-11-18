@@ -3,6 +3,38 @@
 site_name: Center for Collaborative Democracy
 footer: Copyright 2013 by the Center for Collaborative Democracy
 
+top_nav:
+  -
+    title: Programs
+    path: "#"
+    has_children: true
+    children:
+      -
+        title: Forum for Long-Term Prosperity
+        path: "#"
+      -
+        title: New Ways to Solve Community Problems
+        path: /new-way-solve-community-problems
+      -
+        title: How Any Legislature Can Reach Consensus
+        path: /how-any-legislature-can-reach-consensus.html
+      -
+        title: Fixing America's Broken Government
+        path: /fix-americas-broken-government.html
+      -
+        title: How Companies Can Make Better Decisions
+        path: /how-companies-can-make-better-decisions.html
+  -
+    title: About
+    path: /about-ccd
+  -
+    title: Get Involved
+    path: /get-involved.html
+  -
+    title: Contact Us
+    path: /contact-us
+
+
 navigation:
   -
     title: Home
@@ -70,4 +102,4 @@ navigation:
     title: Contact Us
     path: /contact-us
 
----
+...
