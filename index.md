@@ -5,6 +5,8 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
+## How to Overcome Gridlock and Create Wide Prosperity 
+
 Economists left, right and center largely agree that Americans in every socio-economic group could prosper _if_ we upgrade our public schools to match the best in the world, simplify the tax code by closing loopholes and lowering marginal tax rates,  curb the growth in entitlement spending, and invest judiciously in infrastructure.
 
 But nearly every member of Congress clearly prefers to attack the other party's agenda rather than negotiate an economic plan that could benefit Americans of all kinds.
