@@ -22,4 +22,4 @@ And if enough voters support that plan, lawmakers hungry to keep their jobs will
 For more information, [click here][2]
 
 
-[2]: /files/forum968.pdf
+[2]: http://www.GenuineRepresentation.org/future
