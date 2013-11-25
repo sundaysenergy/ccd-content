@@ -1,6 +1,11 @@
 ---
-title: 'Contact Us'
+title: Contact Us
+published: true
 ---
+
+## Contact
+
+You may leave a message using the contact form below.
 
 <div id="wufoo-m9f9zxx0qmonly">
 </div>
