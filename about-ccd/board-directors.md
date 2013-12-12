@@ -1,13 +1,14 @@
 ---
-title: "Board of Directors"
+title: Board of Directors
 post_class: "board-of-directors"
+published: true
 ---
 
 ## Board of Directors 
 
-**Eugene Brody**  
-Former Managing Director  
-Oppenheimer Capital Corp.  
+**Morris Propp**  
+Managing Director  
+Propp Companies
 
 **Sol Erdman**  
 President  
@@ -16,10 +17,6 @@ Center for Collaborative Democracy
 **Ivan Wolff**  
 Managing Director  
 Venture Three
-
-**Morris Propp**  
-Managing Director  
-Propp Companies
 
 **Cynthia Franklin**  
 Executive Coach  
