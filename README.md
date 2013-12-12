@@ -1,5 +1,4 @@
-ccd-content
-===========
+# Center for Collaborative Democracy
 
 This repository is part of a Create Anywhere Publish Everywhere CAPE website. To learn more visit http://www.cape.io
 
@@ -9,3 +8,8 @@ Visit the public content repository on github https://github.com/sundaysenergy/c
 
 The theme files are also available https://github.com/sundaysenergy/ccd-theme in a different repo.
 
+* Make ID: ccd
+* Temp URL: http://ccd.cape.io
+* Final URL: http://www.genuinerepresentation.org
+* Content Repo: http://content.genuinerepresentation.org
+* Theme Repo: http://theme.genuinerepresentation.org
