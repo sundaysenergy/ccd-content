@@ -6,11 +6,7 @@ title: "Get Involved"
 
 ### Start a Forum
 
-If you wish to start a [forum][1] on this website so that residents of your community can exchange ideas about starting a campaign to adopt PAR, or if you want to start a forum on another subject, please [send us a message][2] and we'll set the forum up for you.
-
-### Post a Comment on a Forum
-
-To comment on an existing forum, [click here][3].
+If you wish to start a forum on this website so that residents of your community can exchange ideas about starting a campaign to adopt PAR, or if you want to start a forum on another subject, please [send us a message][1] and we'll set the forum up for you.
 
 ### Contribute to CCD
 
@@ -22,8 +18,6 @@ New York, NY 10128
 
 ### Contact Us
 
-To send us an e-mail, [click here][2]
+To send us an e-mail, [click here][1]
 
-   [1]: http://www.genuinerepresentation.org/forums
-   [2]: http://www.genuinerepresentation.org/contact
-   [3]: http://www.genuinerepresentation.org/forum
+   [1]: http://www.genuinerepresentation.org/contact
