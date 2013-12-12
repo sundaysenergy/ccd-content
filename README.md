@@ -13,3 +13,4 @@ The theme files are also available https://github.com/sundaysenergy/ccd-theme in
 * Final URL: http://www.genuinerepresentation.org
 * Content Repo: http://content.genuinerepresentation.org
 * Theme Repo: http://theme.genuinerepresentation.org
+* Prose Edit: http://admin.genuinerepresentation.org
