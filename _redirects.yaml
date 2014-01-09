@@ -21,8 +21,8 @@ fiscal: files/prosperj7.pdf
 future: econ
 haass: files/haass625b.doc
 hbs: files/econj7.doc
-hbsq: /files/hbsq1p.doc
-home: content/we-help-communities-solve-intractable-problems
+hbsq: files/hbsq1p.doc
+home: we-help-communities-solve-intractable-problems
 involve: doubts
 mac: files/mac903.doc
 marie: node/299
@@ -42,7 +42,7 @@ prosper: fiscal
 rel: files/pr827b.doc
 select: files/select929.pdf
 seth: http://youtu.be/hmGQuaSB4B8
-stv: content/single-transferable-vote
+stv: alternative-ways-choose-representatives/single-transferable-vote.html
 trish: files/nyt702.doc
 voterc: files/voterc714.doc
 voteri: files/voter806i.doc
