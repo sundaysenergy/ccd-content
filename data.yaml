@@ -11,7 +11,7 @@ top_nav:
     children:
       -
         title: Forum for Long-Term Prosperity
-        path: "http://www.GenuineRepresentation.org/future"
+        path: /future
       -
         title: New Ways to Solve Community Problems
         path: /new-way-solve-community-problems
