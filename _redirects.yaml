@@ -1,7 +1,7 @@
 ---
 
 all: files/leaders720.doc
-alt: files/alt14y.pdf
+alt: files/alt14x.pdf
 budget: files/budget1219m.pdf
 census: files/demographics.pdf
 civic: involve
@@ -25,7 +25,7 @@ hbs: files/fiscal14y.doc
 hbsq: files/hbsq1p.doc
 home: we-help-communities-solve-intractable-problems
 involve: doubts
-leslie: files/fiscal13y.doc
+leslie: files/fiscal14y.doc
 mac: files/mac903.doc
 marie: node/299
 mintz: files/alice1021.doc
