@@ -1,7 +1,7 @@
 ---
 
 all: files/leaders720.doc
-alt: files/forum31y.pdf
+alt: files/forum30y.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 civic: involve
@@ -15,11 +15,11 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: future
-econ: files/econ31y.pdf
-econn: files/fiscal31y.pdf
+econ: files/econ30y.pdf
+econn: files/fiscal30y.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
-fiscal: files/prosper31y.pdf
+fiscal: files/prosper30y.pdf
 future: econ
 haass: files/haass625b.doc
 hbs: files/prosper30y.doc
