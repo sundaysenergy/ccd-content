@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alpha: files/forum17l.pdf
+alpha: files/forum18l.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 civic: involve
@@ -25,6 +25,7 @@ hbs: files/prosper30y.doc
 hbsq: files/hbsq1p.doc
 home: we-help-communities-solve-intractable-problems
 involve: doubts
+leslie: files/forum18l.doc
 marie: files/Active2005.pdf
 mintz: files/alice1021.doc
 mogul: files/mogul1227.doc
