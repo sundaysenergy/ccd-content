@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alpha: files/forum18g.pdf
+alpha: files/forum19g.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 civic: involve
@@ -14,18 +14,18 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: future
-econ: files/forum18g.pdf
-econn: files/forum18g.pdf
+econ: files/forum19g.pdf
+econn: files/forum19g.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
-fiscal: files/forum18g.pdf
+fiscal: files/forum19g.pdf
 future: econ
 haass: files/haass625b.doc
-hbs: files/forum18g.doc
+hbs: files/forum19g.doc
 hbsq: files/hbsq1p.doc
 home: we-help-communities-solve-intractable-problems
 involve: doubts
-leslie: files/forum18g.doc
+leslie: files/forum19g.doc
 litigate: files/Litigate10g.pdf
 marie: files/Active2005.pdf
 mintz: files/alice1021.doc
