@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/prosper13.pdf
+alt: files/prosper13s.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: files/fiscal22g.doc
