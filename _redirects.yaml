@@ -16,13 +16,13 @@ cover: files/forum,cover17y.pdf
 dbt: budget
 debt: future
 econ: files/prosper16s.pdf
-econn: files/prosper.pdf
+econn: files/prosper16s.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
-fiscal: files/prosper.pdf
+fiscal: files/prosper16s.pdf
 future: econ
 haass: files/haass625b.doc
-hbs: files/prosper.doc
+hbs: files/prosper16s.doc
 hbsq: files/hbsq1p.doc
 home: we-help-communities-solve-intractable-problems
 involve: doubts
