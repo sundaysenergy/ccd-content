@@ -19,7 +19,7 @@ econ: files/prosper19q.pdf
 econn: files/prosper19q.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
-fiscal: files/prosper19q.pdf
+fiscal: econ
 future: econ
 haass: files/haass625b.doc
 hbs: files/prosper19q.doc
