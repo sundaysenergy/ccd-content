@@ -16,7 +16,7 @@ cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
 econ: files/prosper19q.pdf
-econn: files/econ
+econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
 fiscal: econ
