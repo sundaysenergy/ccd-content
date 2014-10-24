@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/prosper23n.pdf
+alt: files/prosper24h.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: files/prosper16i.doc
@@ -15,18 +15,18 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
-econ: files/prosper23n.pdf
-econn: files/prosper23r.pdf
+econ: files/prosper24c.pdf
+econn: files/prosper24h.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
 fiscal: econ
 future: econ
 haass: files/haass625b.doc
-hbs: files/prosper23r.doc
+hbs: files/prosper24h.doc
 hbsq: files/hbsq1p.doc
 home: we-help-communities-solve-intractable-problems
 involve: doubts
-leslie: files/prosper23n.doc
+leslie: files/prosper24c.doc
 litigate: files/Litigate10g.pdf
 marie: files/Active2005.pdf
 mintz: files/alice1021.doc
