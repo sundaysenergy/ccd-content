@@ -19,10 +19,10 @@ econ: files/prosper24c.pdf
 econn: files/prosper24h.pdf
 economists: files/eco609.doc
 ef: files/efm16.doc
-fran: files/fran3n.doc
+fran: files/fran3q.doc
 fiscal: econ
 future: econ
-gal: files/Galston3n.doc
+gal: files/Galston3q.doc
 haass: files/haass625b.doc
 hbs: files/prosper24h.doc
 hbsq: files/hbsq1p.doc
