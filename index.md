@@ -5,7 +5,7 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## How a Politically Dysfunctional America Could Restore Its Fiscal and Economic Health
+## How America Could Overcome Gridlock to Restore Its Fiscal and Economic Health
 
 Economists left, right and center largely agree that Americans in every socio-economic group could prosper _if_ we upgrade our public schools to match the best in the world, simplify the tax code by closing loopholes and lowering marginal tax rates,  curb the growth in entitlement spending, and invest judiciously in infrastructure.
 
