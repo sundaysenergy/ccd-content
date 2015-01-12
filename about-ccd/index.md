@@ -8,8 +8,8 @@ The **Center for Collaborative Democracy** is a non-profit, nonpartisan, tax exe
 
 CCD grew out of the MIT-Harvard Public Disputes Program, which for two decades has refereed political conflicts from local housing battles to worldwide environmental clashes.
 
-CCD has done extensive research on political adversaries _outside_ of government who have negotiated constructive agreements on highly contentious issues. As a result, we have found practical ways to motivate political adversaries _inside_ government to develop equally constructive solutions.  A full description of our research and conclusions can be found in the recently published book,  The Cure for Our Broken Political Process. For more information about the book, [click here][1].
+CCD has done extensive research on political adversaries _outside_ of government who have negotiated constructive agreements on highly contentious issues. As a result, we have found practical ways to motivate political adversaries _inside_ government to develop equally constructive solutions. 
 
-Our current efforts are focused on providing communities with the tools that will enable them to develop creative solutions to long-standing conflicts.
+Our current efforts are focused on convening the negotiators who could best develop a fiscal/economic plan that would serve the long-term interests of Americans across the political and economic spectrum.
 
-   [1]: /cure-book-details
+   
