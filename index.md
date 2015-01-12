@@ -5,7 +5,7 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## How to Overcome Gridlock and Restore America's Fiscal/Economic Health
+## How to Restore America's Fiscal and Economic Health
 
 Economists left, right and center largely agree that Americans in every socio-economic group could prosper _if_ we upgrade our public schools to match the best in the world, simplify the tax code by closing loopholes and lowering marginal tax rates,  curb the growth in entitlement spending, and invest judiciously in infrastructure.
 
