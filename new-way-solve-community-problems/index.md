@@ -38,7 +38,6 @@ Fortunately, any community enmeshed in difficult conflicts can use this same app
 
 To see how your community can apply this approach, [click here][1].
 
-To see how the whole country could use this approach to resolve any national issue, [click here][2].
 
 ***
 
@@ -53,4 +52,4 @@ To see how the whole country could use this approach to resolve any national iss
 5 Negotiated Rulemaking Sourcebook by David Pritzker and Deborah Dalton (U.S. Government Printing Office, 1995).*
 
    [1]: /new-way-solve-community-problems/how-your-community-can-find-representatives.html
-   [2]: /new-way-solve-community-problems/how-america-could-resolve-any-issue.html
+   
