@@ -3,7 +3,7 @@ all: files/leaders720.doc
 alt: files/fiscal3f.pdf
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
-charlie: files/prosper30m.doc
+charlie: files/fiscal3f.pdf
 civic: involve
 civic-q&a: civic
 cliff: files/cliff411b.doc
