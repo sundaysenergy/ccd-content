@@ -17,7 +17,7 @@ There are prominent Americans from the left, right and center who would gladly s
 
 So, we at CCD intend to make this happen. We're building a coalition of nonprofit organizations and civic-minded individuals to jointly sponsor a Forum for Long-Term Prosperity.
 
-The Forum will bring together in one place the men and whom the American people would most trust to solve our economic problems. We will ask these men and women to work out a fiscal/economic plan that voters of all kinds could support. Once they agree on that plan, they will present it to the American people.
+The Forum will bring together in one place the men and women the American people would most trust to solve our economic problems. We will ask these men and women to work out a fiscal/economic plan that voters of all kinds could support. Once they agree on that plan, they will present it to the American people.
 
 And if enough voters support that plan, lawmakers hungry to keep their jobs will have to listen.
 
