@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosper60q.doc
+alt: files/Prosper61y.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
@@ -54,7 +54,7 @@ rstreet: files/rstreet6-12a.doc
 reve: files/Myron20c.docx
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
-share: files/Prosper60q.pdf
+share: files/Prosper61y.pdf
 stv: alternative-ways-choose-representatives/single-transferable-vote.html
 trish: files/nyt702.doc
 vi: files/video28d.doc
