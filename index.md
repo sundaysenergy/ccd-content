@@ -19,7 +19,7 @@ So, we at CCD intend to make this happen. We're building a coalition of nonprofi
 
 The Forum will bring together in one place the men and women the American people would most trust to solve our economic problems. We will ask these men and women to work out a fiscal/economic plan that voters of all kinds could support. Once they agree on that plan, they will present it to the American people.
 
-And if enough voters support that plan, lawmakers hungry to keep their jobs will have to listen.
+And if enough voters support that plan, lawmakers hungry to keep their jobs will listen.
 
 For more information, [click here][2]
 
