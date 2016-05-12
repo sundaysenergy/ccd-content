@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosper12ai.doc
+alt: files/Prosper12ei.doc
 b: files/SectionB11.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -17,7 +17,7 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
-econ: files/Prosper12ai.pdf
+econ: files/Prosper12ei.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
