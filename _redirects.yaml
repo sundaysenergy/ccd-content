@@ -1,7 +1,7 @@
 ---
 all: files/leaders720.doc
 alt: files/Prosper22ei.doc
-b: files/SectionB20.docx
+b: files/SectionB22.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
