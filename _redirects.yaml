@@ -21,7 +21,7 @@ econ: files/Prosper97v.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
-fair: files/ccdsign31b.doc
+fair: files/ccdsign31.doc
 fran: files/fran5n.doc
 fiscal: econ
 future: econ
