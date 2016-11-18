@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosper99b.doc
+alt: files/Prosper99i.doc
 b: files/SectionB31.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -17,7 +17,7 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
-econ: files/Prosper99h.pdf
+econ: files/Prosper99j.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
@@ -60,7 +60,7 @@ share: econ
 sign: files/sign31a.doc
 stv: alternative-ways-choose-representatives/single-transferable-vote.html
 trish: files/nyt702.doc
-trust: files/Trust99h.pdf
+trust: files/Trust99j.pdf
 vi: files/video28d.doc
 voterc: files/voterc714.doc
 voteri: files/voter806i.doc
