@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity8p.doc
+alt: files/Prosperity8r.doc
 b: files/SectionB31.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -39,7 +39,7 @@ marie: files/Active2005.pdf
 mintz: files/alice.doc
 mogul: files/mogul1227.doc
 nationwide: files/nationwide1130.pdf
-noh: files/Prosperity8p2.doc
+noh: files/Prosperity8rp1.doc
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
@@ -54,7 +54,7 @@ prosper: econn
 rel: files/pr827b.doc
 reve: files/Myron20c.docx
 select: files/select6m.pdf
-res: files/Prosperity8p.pdf
+res: files/Prosperity8r.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
 sign: files/sign31a.doc
