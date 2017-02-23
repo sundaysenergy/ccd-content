@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity6a.doc
+alt: files/Prosperity6d.doc
 b: files/SectionB31.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -54,7 +54,7 @@ prosper: econn
 rel: files/pr827b.doc
 reve: files/Myron20c.docx
 select: files/select6m.pdf
-res: files/Trust6a.pdf
+res: files/Trust6d.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
 sign: files/sign31a.doc
