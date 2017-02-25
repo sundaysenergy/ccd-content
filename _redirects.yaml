@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity6q.doc
+alt: files/Prosperity6s.doc
 b: files/SectionB31.docx
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -17,7 +17,7 @@ coo: files/coo322.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
-econ: files/Prosperity6r.pdf
+econ: files/Prosperity6t.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
@@ -39,7 +39,7 @@ marie: files/Active2005.pdf
 mintz: files/alice.doc
 mogul: files/mogul1227.doc
 nationwide: files/nationwide1130.pdf
-noh: files/Prosperity25p1.docx
+noh: files/Prosperity25q1.docx
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
