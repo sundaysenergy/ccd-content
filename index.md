@@ -21,6 +21,6 @@ The Forum will bring together in one place the men and women the American people
 
 And if enough voters support that plan, lawmakers hungry to keep their jobs will listen.
 
-For more information, [click here][2]
+
 
 [2]: http://www.GenuineRepresentation.org/future
