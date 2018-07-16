@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity-Forum58h.doc
+alt: files/Prosperity-Forum58q.doc
 b: files/Wh.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -17,7 +17,7 @@ core: files/Journalist-Pitch37b.doc
 cover: files/forum,cover17y.pdf
 dbt: budget
 debt: econ
-econ: files/Prosperity-Forum58n.pdf
+econ: files/Prosperity-Forum58r.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
