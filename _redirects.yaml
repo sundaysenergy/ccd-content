@@ -1,7 +1,7 @@
 ---
 all: files/leaders720.doc
 alt: files/Prosperity-Forum59a.doc
-b: files/Mend.doc
+b: files/nyt12a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
@@ -13,7 +13,7 @@ con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/Prosperity-Forum59c.pdf
-core: files/Susskind12b.doc
+core: files/Susskind12c.doc
 cove: files/HBSInvite18c.doc
 dbt: budget
 debt: econ
