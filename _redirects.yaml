@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity-Forum59t.doc
+alt: files/Prosperity-Forum59w.doc
 b: files/Moore28b.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -12,12 +12,12 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/Prosperity-Forum59v.pdf
+conserve: files/Prosperity-Forum59y.pdf
 core: files/Susskind12c.doc
 cove: files/NANR23d.doc
 dbt: budget
 debt: econ
-econ: files/Prosperity-Forum59u.pdf
+econ: files/Prosperity-Forum59v.pdf
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
@@ -52,7 +52,7 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/Prosperity-Forum59t.pdf
+res: files/Prosperity-Forum59w.pdf
 reve: files/Myr.doc
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
