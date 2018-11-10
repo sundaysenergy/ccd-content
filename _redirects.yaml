@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/Prosperity-Forum75m.pdf
+conserve: files/Prosperity-Forum75n.pdf
 core: files/Fareed5b.doc
 cove: files/Denny1a.doc
 dbt: budget
@@ -25,7 +25,7 @@ far: econ
 fran: econ
 fiscal: econ
 future: econ
-gen: files/Prosperity-Forum75m.pdf
+gen: files/Prosperity-Forum75n.pdf
 grab: files/CW2-3a.doc
 has: files/IRV8a.doc
 hbs: econn
