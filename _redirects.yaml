@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity-Forum75s.doc
+alt: noh
 b: files/9-26Pitch26a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -17,7 +17,7 @@ core: files/Fareed5b.doc
 cove: files/Denny1a.doc
 dbt: budget
 debt: econ
-econ: files/Prosperity-Forum75s.pdf
+econ: res
 econn: econ
 economists: files/eco609.doc
 ef: files/efm16.doc
@@ -25,7 +25,7 @@ far: econ
 fran: econ
 fiscal: econ
 future: econ
-gen: files/Prosperity-Forum75n.pdf
+gen: conserve
 grab: files/CW2-3a.doc
 has: files/IRV8a.doc
 hbs: econn
@@ -36,7 +36,7 @@ involve: doubts
 leslie: econn
 litigate: files/Litigate10g.pdf
 marie: files/Active2005.pdf
-min: files/Prosperity-Forum75j.doc
+min: res
 mog: files/9-26pitch.doc
 nationwide: files/nationwide1130.pdf
 ncr: files/ncr311.pdf
