@@ -11,6 +11,5 @@ The theme files are also available https://github.com/sundaysenergy/ccd-theme in
 * Make ID: ccd
 * Temp URL: http://ccd.cape.io
 * Final URL: http://www.genuinerepresentation.org
-* Content Repo: http://content.genuinerepresentation.org
-* Theme Repo: http://theme.genuinerepresentation.org
-* Prose Edit: http://admin.genuinerepresentation.org
+* Content Repo: https://github.com/sundaysenergy/ccd-content
+* Theme Repo: https://github.com/sundaysenergy/ccd-theme
