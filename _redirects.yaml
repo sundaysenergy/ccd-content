@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity-ForumD72v.doc
+alt: files/Prosperity-ForumD72x.doc
 b: files/9-26Pitch26a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/Prosperity-ForumF72v.pdf
+conserve: files/Prosperity-ForumF72x.pdf
 core: files/Toffel27a.doc
 cove: files/Bli.doc
 dbt: budget
@@ -29,7 +29,7 @@ gen: conserve
 grab: files/CW2-3a.doc
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Prosperity-ForumG72r.doc
+hi: files/Prosperity-ForumG72x.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -52,8 +52,8 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/Prosperity-ForumD72v.pdf
-reve: files/Prosperity-ForumG72r.pdf
+res: files/Prosperity-ForumD72x.pdf
+reve: files/Prosperity-ForumG72x.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
