@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Prosperity-ForumD77b.doc
+alt: files/Prosperity-ForumD77c.doc
 b: files/9-26Pitch26a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/Prosperity-ForumF77b.pdf
+conserve: files/Prosperity-ForumF77c.pdf
 core: files/BarryG10a.doc
 cove: files/Stavins31b.doc
 dbt: budget
@@ -42,7 +42,7 @@ nationwide: files/nationwide1130.pdf
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
-noh: files/Prosperity-ForumD77b.doc
+noh: files/Prosperity-ForumD77c.doc
 novo: files/novo906.doc
 nyt: files/Mend1a.doc
 opt: files/Optimal-Mix17.pdf
@@ -52,7 +52,7 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/Prosperity-ForumD77b.pdf
+res: files/Prosperity-ForumD77c.pdf
 reve: files/Reimagining-GovernanceM2.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
