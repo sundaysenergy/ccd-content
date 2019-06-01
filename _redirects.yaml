@@ -13,7 +13,7 @@ con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/Prosperity-Forum5-24-2019.pdf
-core: files/Ravenel31b.doc
+core: files/RavenelJ1a.doc
 cove: files/AlanK21b.doc
 dbt: budget
 debt: econ
@@ -29,7 +29,7 @@ gen: conserve
 grab: files/CW2-3a.doc
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Saving-Humanity-from-Itself5-31-19B.doc
+hi: files/Saving-Humanity-from-Itself6-1-19.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -53,7 +53,7 @@ prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
 res: files/Saving-Our-Democracy5-24-2019.pdf
-reve: files/Saving-Humanity-from-Itself5-31-19B.pdf
+reve: files/Saving-Humanity-from-Itself6-1-19.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
