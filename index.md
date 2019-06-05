@@ -15,7 +15,7 @@ These worries are clearly self-fulfilling: If the vast majority of us see our el
 
 How then do we prevent our country from succumbing to our long-term troubles: income inequality, soaring debt, climate change and voters’ rising contempt for those with different views? 
 
-The Center for Collaborative Democracy has worked with leading experts and thinkers on negotiation, elections, public policy and social trends to develop what we believe is the most practical strategy for unifying all segments of our society around common-sense solutions for our critical problems.
+The Center for Collaborative Democracy has worked with leading experts on negotiation, elections, public policy and societal trends to develop practical steps for unifying the diverse segments of our society around common-sense solutions for our critical problems.
 
 For more information, [click here][2]
 
