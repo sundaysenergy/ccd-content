@@ -5,21 +5,17 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## How America Can Achieve Wide Prosperity and Fiscal Health
+## A Strategy for Meeting the Challenges of These Times
 
-Economists left, right and center largely agree that Americans in every socio-economic group could prosper _if_ we upgrade our public schools to match the best in the world, simplify the tax code by closing loopholes and lowering marginal tax rates,  curb the growth in entitlement spending, and invest judiciously in infrastructure.
+Politicians who have offered emotionally-charged slogans as remedies for their voters’ troubles — and demonized ideological opponents — have won far more elections in the past 25 years than candidates who offered realistic solutions for our country’s ills. 
 
-But nearly every member of Congress clearly prefers to attack the other party's agenda rather than negotiate an economic plan that could benefit Americans of all kinds.
+Our ills have therefore continued to grow, with the result that 87 percent of voters now worry that our political leaders lack the capacity to solve our major problems, according to a recent Pew Research Center survey. 
 
-Why do we, the American people, accept this? We don’t have to.
+These worries are clearly self-fulfilling: If the vast majority of us see our elected officials as unable to lead us, they cannot. 
 
-There are prominent Americans from the left, right and center who would gladly sit down together to negotiate a plan that leads to wide prosperity while reining in our nation's debts.
+How then do we prevent our country from succumbing to our long-term troubles: income inequality, soaring debt, climate change and voters’ rising contempt for those with different views? 
 
-So, we at CCD intend to make this happen. We're building a coalition of nonprofit organizations and civic-minded individuals to jointly sponsor a Forum for Long-Term Prosperity.
-
-The Forum will bring together in one place the men and women the American people would most trust to solve our economic problems. We will ask these men and women to work out a fiscal/economic plan that voters of all kinds could support. Once they agree on that plan, they will present it to the American people.
-
-And if enough voters support that plan, lawmakers hungry to keep their jobs will listen.
+The Center for Collaborative Democracy has worked with leading experts and thinkers on negotiation, elections, public policy and social trends to develop what we believe is the most practical strategy for unifying all segments 
 
 For more information, [click here][2]
 
