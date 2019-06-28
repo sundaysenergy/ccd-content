@@ -18,6 +18,7 @@ These worries are clearly self-fulfilling: If the vast majority of us see our el
 How then do we prevent our country from succumbing to our long-term troubles: most families’ earnings stagnating. soaring national debt, climate change and voters’ rising contempt for those with different views? 
 
 The Center for Collaborative Democracy has worked with leading experts on negotiation, elections, public policy and societal trends to develop practical steps for unifying the diverse segments of our society around common-sense solutions for our critical problems.
+
 For more information, [click here][2]
 
 [2]: http://www.GenuineRepresentation.org/future
