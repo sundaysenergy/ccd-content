@@ -1,6 +1,6 @@
 ---
 all: files/leaders720.doc
-alt: files/Saving-Our-Democracy7-9-19.doc
+alt: files/Saving-Our-Democracy7-9-19A.doc
 b: files/9-26Pitch26a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/Prosperity-Forum7-9-19.pdf
+conserve: files/Prosperity-Forum7-9-19A.pdf
 core: files/Panetta6-24a.doc
 cove: files/Why-listen-8a.doc
 dbt: budget
@@ -42,7 +42,7 @@ nationwide: files/nationwide1130.pdf
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
-noh: files/Saving-Our-Democracy7-9-19.doc
+noh: files/Saving-Our-Democracy7-9-19A.doc
 novo: files/novo906.doc
 nyt: files/Mend1a.doc
 opt: files/Optimal-Mix17.pdf
@@ -52,7 +52,7 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/Saving-Our-Democracy7-9-19.pdf
+res: files/Saving-Our-Democracy7-9-19A.pdf
 reve: files/Meeting-Global-Challenges7-3-19.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
