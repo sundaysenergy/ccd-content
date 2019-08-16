@@ -7,7 +7,7 @@ post_class: 'mainpage'
 
 ## A Strategy for Meeting Our Democracy's Gravest Challenges
 
-Members of Congress who have offered emotionally-charged slogans as remedies for our country’s ills — and demonized ideological opponents — have won reelection 90+ percent of the time in the past 25 years, while lawmakers who offered realistic solutions have nearly all lost their seats. 
+Members of Congress who offered emotionally-charged slogans as remedies for our country’s ills — and demonized ideological opponents — have won reelection 90+ percent of the time in the past 25 years, while lawmakers offering realistic solutions have nearly all lost their seats. 
 
 Our nation’s troubles have therefore continued to grow, fueling voters’ rising anger at government, our economic system and one another. 
 
