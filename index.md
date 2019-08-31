@@ -5,7 +5,7 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## A Strategy for the Major Democracies to Achieve Wide Prosperity, Fiscal Stability and a Healthy Environment
+## A Strategy for Achieving Wide Prosperity, Fiscal Stability and a Healthy Environment
 
 Politicians who offer simplistic or incendiary sound-bites as remedies for stagnant wages, soaring national debts or rising global temperatures have been winning far more elections worldwide than candidates offering pragmatic solutions.  
 
