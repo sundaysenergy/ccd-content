@@ -5,20 +5,14 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## A Strategy for Meeting Our Democracy's Gravest Challenges
+## A Strategy for the Major Democracies to Achieve Wide Prosperity, Fiscal Stability and a Healthy Environment
 
-Members of Congress who offered emotionally-charged slogans as remedies for our country’s ills — and demonized ideological opponents — have won reelection 90+ percent of the time in the past 25 years, while lawmakers offering realistic solutions have nearly all lost their seats. 
+Politicians who offer simplistic or incendiary sound-bites as remedies for stagnant wages, soaring national debts or rising global temperatures have been winning far more elections worldwide than candidates offering pragmatic solutions.  
 
-Our nation’s troubles have therefore continued to grow, fueling voters’ rising anger at government, our economic system and one another. 
+The Center for Collaborative Democracy has therefore worked with leading experts on negotiation, economics, psychology, game theory and public policy to develop practical steps for mobilizing overwhelming public support for common-sense solutions to the critical problems the major democracies now face.
 
-And faith in our democracy has crumbled: 87 percent of voters surveyed by the Pew Research Center worried that our political leaders lack the capacity to solve our major problems. 
-
-These worries are self-fulfilling: If the vast majority of us see our elected officials as unable to lead us, they cannot. 
-
-How then do we prevent our country from succumbing to our long-term troubles: most families’ earnings stagnating or sinking, soaring national debt, climate change, and voters’ rising contempt for those with different views? 
-
-The Center for Collaborative Democracy has worked with leading experts on negotiation, elections, public policy and societal trends to develop practical steps for unifying the diverse segments of our society around common-sense solutions for our critical problems.   
+Our research suggests that, in each country, several prominent citizens outside government are highly motivated to solve their nation’s economic and environmental problems, are equipped to find solutions that will benefit all socioeconomic groups, and have enough influence with each segment of the public to win overwhelming support for those solutions.
 
 For more information, [click here][2]
 
-[2]: http://www.GenuineRepresentation.org/future
+[2]: http://www.GenuineRepresentation.org/reve
