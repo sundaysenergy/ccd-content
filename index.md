@@ -5,7 +5,7 @@ post_class: 'mainpage'
 
 ![People. World.](/files/people-world.jpg)
 
-## A Strategy for Achieving Wide, Sustainable Prosperity and a Healthy Environment
+## A Strategy for Achieving Wide Prosperity and a Healthy Environment
 
 Politicians who stoke voters' anger about stagnant wages, soaring national debts or rising global temperatures have been winning far more elections worldwide than candidates offering pragmatic solutions.  
 
