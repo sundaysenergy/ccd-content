@@ -1,6 +1,3 @@
-title: 'Center for Collaborative Democracy'
-post_class: 'mainpage'
----
 
 ![People. World.](/files/people-world.jpg)
 
