@@ -1,4 +1,3 @@
-
 ![People. World.](/files/people-world.jpg)
 
 ## A Strategy for Wide Prosperity, Fiscal Health and Environmental Stability
