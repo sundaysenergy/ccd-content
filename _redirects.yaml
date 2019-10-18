@@ -14,7 +14,7 @@ congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-10-13-19b.pdf
 core: files/Meeting-Global-ChallengesF9-13-19b.doc
-cove: files/Averting-Climate-Catastrophe-Gates-10-18-19a.doc
+cove: files/Averting-Climate-Catastrophe-Gates-10-18-19b.doc
 dbt: budget
 debt: econ
 econ: res
@@ -26,7 +26,7 @@ fran: econ
 fiscal: econ
 future: econ
 gen: conserve
-grab: files/Gates-Pitch-10-18-19c.doc
+grab: cove
 has: files/IRV8a.doc
 hbs: econn
 hi: files/Meeting-Global-ChallengesF9-13-19b.doc
