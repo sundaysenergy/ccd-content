@@ -7,14 +7,14 @@ census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Melinda10-31a.doc
+click: files/Melinda10-31b.doc
 compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-10-26-19a.pdf
-core: files/Kahneman10-30a.doc
-cove: files/Averting-Climate-Catastrophe-10-31-19a.doc
+core: files/Kahneman10-31a.doc
+cove: files/Averting-Climate-Catastrophe-10-31-19b.doc
 dbt: budget
 debt: econ
 econ: res
@@ -29,7 +29,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Meeting-Global-Challenges-10-31-19e.doc
+hi: files/Meeting-Global-Challenges-10-31-19f.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
