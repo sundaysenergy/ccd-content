@@ -1,7 +1,7 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Jan11-5a.doc
+b: files/Jan11-5b.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
@@ -29,7 +29,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Meeting-Global-Challenges-11-4-19a.doc
+hi: files/Meeting-Global-Challenges-11-5-19B.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
