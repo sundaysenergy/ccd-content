@@ -1,20 +1,20 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Jan11-7a.doc
+b: files/Jan11-8a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Melinda11-2a.doc
+click: files/Melinda11-8a.doc
 compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-10-26-19a.pdf
 core: files/Kahneman10-31a.doc
-cove: files/Averting-Climate-Catastrophe-11-7-19a.doc
+cove: files/Averting-Climate-Catastrophe-11-8-19a.doc
 dbt: budget
 debt: econ
 econ: res
@@ -29,7 +29,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Meeting-Global-Challenges-11-7-19c.doc
+hi: files/Meeting-Global-Challenges-11-8-19a.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -53,7 +53,7 @@ prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
 res: files/Saving-American-Democracy-10-26-19a.pdf
-reve: files/Meeting-Global-Challenges-11-7-19c.pdf
+reve: files/Meeting-Global-Challenges-11-8-19a.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
