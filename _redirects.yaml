@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/America-in-Crisis-11-10-19a.pdf
+conserve: files/America-in-Crisis-11-11-19a.pdf
 core: files/Kahneman10-31a.doc
 cove: files/Averting-Climate-Catastrophe-11-11-19b.doc
 dbt: budget
@@ -29,7 +29,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Meeting-Global-Challenges-11-11-19a.doc
+hi: files/Meeting-Global-Challenges-11-11-19b.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -42,7 +42,7 @@ nationwide: files/nationwide1130.pdf
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
-noh: files/Saving-American-Democracy-11-10-19a.doc
+noh: files/Saving-American-Democracy-11-11-19a.doc
 novo: files/novo906.doc
 nyt: files/Mend1a.doc
 opt: files/Optimal-Mix17.pdf
@@ -52,7 +52,7 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/Saving-American-Democracy-11-10-19a.pdf
+res: files/Saving-American-Democracy-11-11-19a.pdf
 reve: files/Meeting-Global-Challenges-11-11-19a.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
