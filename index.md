@@ -4,7 +4,7 @@
 
 Politicians who offer incendiary slogans as remedies for stagnant wages, soaring national debts and rising global temperatures have been winning far more elections throughout the world than candidates offering pragmatic solutions. These ills are therefore destined to grow worse.  
 
-The Center for Collaborative Democracy has gathered evidence that, in each major democracy, several prominent citizens outside government are equipped to work out a comprehensive agreement resolving their nation’s critical problems to the long-term benefit of all socio-economic groups — enough so for voters in each group to support that agreement. 
+The Center for Collaborative Democracy has gathered evidence that, in each major democracy, several prominent citizens outside government are equipped to work out a comprehensive agreement resolving their nation’s critical problems to the long-term benefit of every socio-economic group — enough so that voters in each group would support that agreement. 
 
 For more information, [click here][2]
 
