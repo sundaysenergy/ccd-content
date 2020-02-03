@@ -1,6 +1,6 @@
 ![People. World.](/files/people-world.jpg)
 
-## A Strategy to Resolve America's Critical Problems to the Long-Term Benefit of All — Regardless of Who Wins Elections 
+## How We Can Resolve America's Critical Problems to the Long-Term Benefit of All — Regardless of Who Wins Elections 
 
 Politicians who have offered incendiary slogans as remedies for stagnant wages, soaring national debt and rising global temperatures have won far more elections over the past two decades than candidates who offered pragmatic solutions.  Our country’s ills and the public’s anger have therefore kept growing grow worse. 
 
