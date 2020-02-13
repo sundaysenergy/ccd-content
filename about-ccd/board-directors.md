@@ -6,10 +6,6 @@ published: true
 
 ## Board of Directors 
 
-**Morris Propp**  
-Managing Director  
-Propp Companies
-
 **Sol Erdman**  
 President  
 Center for Collaborative Democracy
