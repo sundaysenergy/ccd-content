@@ -4,9 +4,11 @@ title: "About CCD"
 
 ## About CCD
 
-The **Center for Collaborative Democracy** is a non-profit, nonpartisan  organization that grew out of the MIT-Harvard Public Disputes Program.  Our Board of Advisors include leading thinkers in economics, psychology, game theory and conflict-resolution.
+The **Center for Collaborative Democracy** is a non-profit, nonpartisan  organization that grew out of the MIT-Harvard Public Disputes Program.  
 
 Our mission is to develop innovative methods by which our society can resolve critical national problems that established institutions, inside government and out, are failing to remedy.
+
+Many of our ideas have come from our Board of Advisors, which includes leading thinkers in economics, psychology, game theory and conflict-resolution.  
 
 At this time, we are focused on bridging differences among an increasingly divided and angry American public — and creating a shared vision of our future that includes practical, widely beneficial, cost-effective solutions for growing income inequality, inadequate schools, soaring national debt and climate change. 
 
