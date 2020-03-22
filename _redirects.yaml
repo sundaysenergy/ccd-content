@@ -1,7 +1,7 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Preamble21c.doc
+b: files/Preamble22a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
@@ -30,7 +30,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Averting-Global-Catastrophe-3-22-20a.doc
+hi: files/Averting-Global-Catastrophe-3-22-20b.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
