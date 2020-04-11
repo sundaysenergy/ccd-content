@@ -15,7 +15,7 @@ consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-4-10-20a.pdf
 core: files/HBS-SEI-Slides-21b.doc
 content: https://github.com/sundaysenergy/ccd-content
-cove: files/Averting-Global-Catastrophe-4-9-20b.pdf
+cove: files/Averting-Global-Catastrophe-4-11-20a.pdf
 dbt: budget
 debt: econ
 econ: res
@@ -30,7 +30,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Averting-Global-Catastrophe-4-9-20b.doc
+hi: files/Averting-Global-Catastrophe-4-11-20b.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -54,7 +54,7 @@ prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
 res: files/America-in-Crisis-4-10-20a.pdf
-reve: files/Averting-Global-Catastrophe-4-9-20b.pdf
+reve: files/Averting-Global-Catastrophe-4-11-20a.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
