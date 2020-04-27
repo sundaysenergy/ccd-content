@@ -12,7 +12,7 @@ compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/America-in-Crisis-4-23-20a.pdf
+conserve: files/America-in-Crisis-4-26-20a.pdf
 core: files/HBS-SEI-Slides-21b.doc
 content: https://github.com/sundaysenergy/ccd-content
 cove: files/Averting-Global-Catastrophe-4-26-20x.pdf
@@ -43,7 +43,7 @@ nationwide: files/nationwide1130.pdf
 ncr: files/ncr311.pdf
 networks: files/networks15b.doc
 node: multi-party-systems
-noh: files/America-in-Crisis-4-23-20a.doc
+noh: files/America-in-Crisis-4-26-20a.doc
 novo: files/novo906.doc
 nyt: files/Mend1a.doc
 opt: files/Optimal-Mix17.pdf
@@ -53,7 +53,7 @@ plea: files/plea2.doc
 prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
-res: files/America-in-Crisis-4-23-20a.pdf
+res: files/America-in-Crisis-4-26-20a.pdf
 reve: files/Averting-Global-Catastrophe-4-26-20x.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
