@@ -1,13 +1,13 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Stavins6-5a.doc
+b: files/Stavins6-7a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Stavins6-5a.pdf
+click: files/Stavins6-7a.pdf
 compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
@@ -30,7 +30,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Averting-Global-Catastrophe-6-1-20.doc
+hi: files/Averting-Global-Catastrophe-6-7-20a.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
@@ -54,7 +54,7 @@ prefer: files/prefer17f.pdf
 prosper: econn
 rel: files/pr827b.doc
 res: files/America-in-Crisis-6-6-20a.pdf
-reve: files/Averting-Global-Catastrophe-6-1-20.pdf
+reve: files/Averting-Global-Catastrophe-6-7-20a.pdf
 select: files/select6m.pdf
 seth: http://youtu.be/hmGQuaSB4B8
 share: econ
