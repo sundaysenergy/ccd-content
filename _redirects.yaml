@@ -1,13 +1,13 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/MacA9-1a.doc
+b: files/MacA9-1b.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/MacA9-1a.pdf
+click: files/MacA9-1b.pdf
 compare: files/ForumCompare3.xls
 con: consensus
 congress: files/par1105.pdf
