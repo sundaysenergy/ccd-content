@@ -1,19 +1,19 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Duffy26b.doc
+b: files/Duffy28a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Duffy26b.pdf
+click: files/Duffy28a.pdf
 compare: files/ForumC.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-10-26-20b.pdf
-core: files/Averting-Climate-Catastrophe-10-26-20a.pdf
+core: files/Averting-Climate-Catastrophe-10-27-20a.pdf
 content: https://github.com/sundaysenergy/ccd-content
 cove: core
 dbt: budget
@@ -30,7 +30,7 @@ gen: conserve
 grab: cove
 has: files/IRV8a.doc
 hbs: econn
-hi: files/Averting-Climate-Catastrophe-10-26-20a.doc
+hi: files/Averting-Climate-Catastrophe-10-27-20a.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 involve: doubts
