@@ -1,13 +1,13 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Duffy10b.doc
+b: files/Duffy12a.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Duffy10b.pdf
+click: files/Duffy12a.pdf
 compare: files/ForumC.xls
 con: consensus
 congress: files/par1105.pdf
