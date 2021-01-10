@@ -12,8 +12,8 @@ compare: files/ForumC.xls
 con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
-conserve: files/America-in-Crisis-1-101b.pdf
-core: files/Averting-Climate-Catastrophe-1-101a.pdf
+conserve: files/America-in-Crisis-1-10-21b.pdf
+core: files/Averting-Climate-Catastrophe-1-10-21a.pdf
 content: https://github.com/sundaysenergy/ccd-content
 cove: core
 dbt: budget
