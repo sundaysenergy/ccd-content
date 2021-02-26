@@ -13,7 +13,7 @@ con: consensus
 congress: files/par1105.pdf
 consensus: files/consensus2014n.pdf
 conserve: files/America-in-Crisis-2-17-21b.pdf
-core: files/Averting-Climate-Catastrophe-2-26-21a.pdf
+core: files/Averting-Climate-Catastrophe-2-26-21b.pdf
 content: https://github.com/sundaysenergy/ccd-content
 cove: core
 dbt: budget
@@ -30,7 +30,7 @@ gen: conserve
 grab: cove
 has: files/IRV8
 hbs: econn
-hi: files/Averting-Climate-Catastrophe-2-26-21a.doc
+hi: files/Averting-Climate-Catastrophe-2-26-21i.doc
 home: we-help-communities-solve-intractable-problems
 house: files/House20c.doc
 in: files/Climate-Intro-2-21-21b.pdf
