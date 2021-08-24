@@ -1,13 +1,13 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/Alex8-24a.doc
+b: files/Alex8-24c.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
 civic: involve
 civic-q&a: civic
-click: files/Alex8-2a.pdf
+click: files/Alex8-24c.pdf
 comp: files/Kyte7-27a.doc
 con: consensus
 congress: files/par1105.pdf
