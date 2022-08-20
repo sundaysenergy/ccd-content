@@ -1,7 +1,7 @@
 ---
 all: files/leaders720.doc
 alt: noh
-b: files/kull-8-16-22.doc
+b: files/Taylor8-20-22.doc
 budget: files/budget1219m.pdf
 census: files/districts2010.pdf
 charlie: econ
