@@ -4,12 +4,14 @@ title: "About CCD"
 
 ## About CCD
 
-The **Center for Collaborative Democracy** is a non-profit, nonpartisan  organization that grew out of the MIT-Harvard Public Disputes Program.  
+The **Center for Collaborative Democracy** is a non-profit, nonpartisan organization that grew out of the MIT-Harvard Public Disputes Program.  
 
 Our mission is to develop innovative methods by which our society can resolve critical problems that established institutions, inside government and out, are failing to remedy.
 
-Many of our ideas come from our Board of Advisors, which includes leading thinkers in game theory, economics, psychology and conflict resolution.  
+To that end, we integrate insights from leading thinkers in game theory, behavioral economics and conflict resolution.  
 
-At this time, we are focused on bridging differences among an increasingly divided and angry American public — and creating a shared vision of our future that includes practical, widely beneficial, cost-effective solutions for growing income inequality, inadequate schools, soaring national debt and climate change. 
+At this time, we are focused on bridging differences among an increasingly polarized and angry American public, creating a shared vision of our country's future, and thereby preventing the breakdown of our democracy. 
 
-To that end, CCD has done extensive research on political adversaries outside of government who have negotiated constructive agreements on highly contentious issues. We have thereby developed a strategy for motivating elected officials to reach equally constructive agreements on the critical issues of these times. 
+To develop a practical plan for achieving that goal, CCD has done extensive research on political adversaries outside of government who have reached agreements that advanced the long-term interests of all sides. We have thereby developed a strategy for generating equivalent results on a national scale. 
+
+We will soon launch a project designed to build broad public support for a combination of widely beneficial, cost-effective solutions for declining social and economic mobility, inadequate schools, soaring national debt and climate change.  
