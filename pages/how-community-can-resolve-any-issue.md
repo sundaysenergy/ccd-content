@@ -1,5 +1,6 @@
 ---
 title: "How a Community Can Resolve Any Issue"
+category: does-your-community-need-change
 ---
 
 ## I. How a Community Can Resolve Any Issue

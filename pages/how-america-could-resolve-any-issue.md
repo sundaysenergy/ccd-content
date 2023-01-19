@@ -1,5 +1,6 @@
 ---
 title: "How America Could Resolve Any Issue"
+category: new-way-solve-community-problems
 ---
 
 ## How America Could Resolve Any Issue*

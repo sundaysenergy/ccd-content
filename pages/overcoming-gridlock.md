@@ -1,5 +1,5 @@
 ---
-title: 'Extra content from original main page'
+title: 'Overcoming Gridlock to Build Nationwide Prosperity'
 ---
 
 ## Overcoming Gridlock to Build Nationwide Prosperity

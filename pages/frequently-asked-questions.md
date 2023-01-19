@@ -1,5 +1,6 @@
 ---
 title: "Frequently Asked Questions"
+category: new-way-solve-community-problems
 ---
 
 ## Frequently Asked Questions

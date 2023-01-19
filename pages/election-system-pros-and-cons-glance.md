@@ -1,5 +1,6 @@
 ---
 title: "Election System Pros and Cons at a Glance"
+category: does-your-community-need-change
 ---
 
 ## Election System Pros and Cons at a Glance

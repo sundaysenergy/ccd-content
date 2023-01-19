@@ -1,5 +1,6 @@
 ---
 title: "The Single Transferable Vote"
+category: alternative-ways-choose-representatives
 ---
 
 ## The Single Transferable Vote 

@@ -1,5 +1,6 @@
 ---
 title: "Steps to Reform in Your Community"
+category: does-your-community-need-change
 ---
 
 ## Steps to Reform in Your Community

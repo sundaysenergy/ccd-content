@@ -1,5 +1,6 @@
 ---
 title: "Personally Accountable Representation"
+category: does-your-community-need-change
 ---
 
 ## Personally Accountable Representation
