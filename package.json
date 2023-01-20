@@ -1,0 +1,30 @@
+{
+  "name": "ccd-content",
+  "version": "1.0.0",
+  "description": "This repository is part of a Create Anywhere Publish Everywhere CAPE website. To learn more visit http://www.cape.io",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundaysenergy/ccd-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundaysenergy/ccd-content/issues"
+  },
+  "homepage": "https://github.com/sundaysenergy/ccd-content#readme",
+  "dependencies": {
+    "fs-extender": "^1.0.3",
+    "fs-extra": "^11.1.0",
+    "gray-matter": "^4.0.3",
+    "lodash": "^4.17.21",
+    "path-parse": "^1.0.7",
+    "prairie": "^4.0.0",
+    "understory": "^2.0.2"
+  }
+}

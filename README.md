@@ -8,8 +8,18 @@ Visit the public content repository on github https://github.com/sundaysenergy/c
 
 The theme files are also available https://github.com/sundaysenergy/ccd-theme in a different repo.
 
-* Make ID: ccd
-* Temp URL: http://ccd.cape.io
-* Final URL: http://www.genuinerepresentation.org
-* Content Repo: https://github.com/sundaysenergy/ccd-content
-* Theme Repo: https://github.com/sundaysenergy/ccd-theme
+## Redirects
+
+* See `static/_redirects` file.
+* https://developers.cloudflare.com/pages/platform/redirects/
+
+## Building Database
+
+* npm install
+* npm start
+* Currently saved to a single file `static/content.json`
+
+## Deploy Notes
+
+* The static directory becomes the web root.
+* https://srv.genuinerepresentation.org/

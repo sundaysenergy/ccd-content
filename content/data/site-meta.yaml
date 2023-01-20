@@ -1,12 +1,9 @@
 ---
-
 site_name: Center for Collaborative Democracy
-footer: Copyright 2013 by the Center for Collaborative Democracy
-
 top_nav:
   -
     title: Programs
-    path: "#"
+    path: "/programs"
     has_children: true
     children:
       -
@@ -17,16 +14,16 @@ top_nav:
         path: /new-way-solve-community-problems
       -
         title: How Any Legislature Can Reach Consensus
-        path: /how-any-legislature-can-reach-consensus.html
+        path: /how-any-legislature-can-reach-consensus
       -
         title: How Companies Can Make Better Decisions
-        path: /how-companies-can-make-better-decisions.html
+        path: /how-companies-can-make-better-decisions
   -
     title: About
     path: /about-ccd
   -
     title: Get Involved
-    path: /get-involved.html
+    path: /get-involved
   -
     title: Contact Us
     path: /contact-us
@@ -35,7 +32,7 @@ top_nav:
 navigation:
   -
     title: Home
-    path: /index.html
+    path: /
   -
     title: About
     path: /about-ccd
@@ -43,7 +40,7 @@ navigation:
     children:
       -
         title: Board of Directors
-        path: /about-ccd/board-directors.html
+        path: /about-ccd/board-directors
   -
     title: A New Way to Solve Community Problems
     path: /new-way-solve-community-problems
@@ -51,13 +48,13 @@ navigation:
     children:
       -
         title: How America Could Resolve Any Issue
-        path: /new-way-solve-community-problems/how-america-could-resolve-any-issue.html
+        path: /new-way-solve-community-problems/how-america-could-resolve-any-issue
       -
         title: How Your Community Can Find the “Right” Representatives
-        path: /new-way-solve-community-problems/how-your-community-can-find-representatives.html
+        path: /new-way-solve-community-problems/how-your-community-can-find-representatives
       -
         title: Frequently Asked Questions
-        path: /new-way-solve-community-problems/frequently-asked-questions.html
+        path: /new-way-solve-community-problems/frequently-asked-questions
   -
     title: Alternative Ways to Choose Representatives
     path: /alternative-ways-choose-representatives
@@ -65,38 +62,36 @@ navigation:
     children:
       -
         title: The Single Transferable Vote
-        path: /alternative-ways-choose-representatives/single-transferable-vote.html
+        path: /alternative-ways-choose-representatives/single-transferable-vote
   -
     title: Does Your Community Need a Change?
-    path: /does-your-community-need-change/index.html
+    path: /does-your-community-need-change
     has_children: true
     children:
       -
         title: How a Community Can Resolve Any Issue
-        path: /does-your-community-need-change/how-community-can-resolve-any-issue.html
+        path: /does-your-community-need-change/how-community-can-resolve-any-issue
       -
         title: Steps to Reform
-        path: /does-your-community-need-change/steps-reform-your-community.html
+        path: /does-your-community-need-change/steps-reform-your-community
       -
         title: Election System Pros and Cons at a Glance
-        path: /does-your-community-need-change/election-system-pros-and-cons-glance.html
+        path: /does-your-community-need-change/election-system-pros-and-cons-glance
       -
         title: Personally Accountable Representation at a Glance
-        path: /does-your-community-need-change/personally-accountable-representation.html
+        path: /does-your-community-need-change/personally-accountable-representation
   -
     title: How Any Legislature Can Reach Consensus
-    path: /how-any-legislature-can-reach-consensus.html
+    path: /how-any-legislature-can-reach-consensus
   -
     title: How To Fix America's Broken Government
-    path: /fix-americas-broken-government.html
+    path: /fix-americas-broken-government
   -
     title: How Companies Can Make Better Decisions
-    path: /how-companies-can-make-better-decisions.html
+    path: /how-companies-can-make-better-decisions
   -
     title: Get Involved
-    path: /get-involved.html
+    path: /get-involved
   -
     title: Contact Us
     path: /contact-us
-
-...
