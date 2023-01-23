@@ -1,4 +1,8 @@
-# How Well Would Voters and Lawmakers Adapt to PAR?
+---
+title: How Well Would Voters and Lawmakers Adapt to PAR?
+date: 2023-01-23T11:15:13.684Z
+dateModified: 2023-01-23T11:15:14.509Z
+---
 
 ### If voters could more freely choose their representatives, would most voters choose wisely?
 

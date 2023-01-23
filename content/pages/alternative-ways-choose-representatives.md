@@ -1,5 +1,7 @@
 ---
-title: "Alternative Ways to Choose Representatives"
+title: Alternative Ways to Choose Representatives
+date: 2023-01-23T11:14:37.698Z
+dateModified: 2023-01-23T11:15:17.258Z
 ---
 
 ## Alternative Ways to Choose Representatives

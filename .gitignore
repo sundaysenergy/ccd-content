@@ -3,3 +3,5 @@
 node_modules
 static/content.json
 static/database.json
+static/content
+dev

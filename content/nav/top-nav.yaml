@@ -1,0 +1,29 @@
+---
+name: top-nav
+navItems:
+  -
+    title: Programs
+    path: "/programs"
+    has_children: true
+    children:
+      -
+        title: Forum for Long-Term Prosperity
+        path: /future
+      -
+        title: New Ways to Solve Community Problems
+        path: /new-way-solve-community-problems
+      -
+        title: How Any Legislature Can Reach Consensus
+        path: /how-any-legislature-can-reach-consensus
+      -
+        title: How Companies Can Make Better Decisions
+        path: /how-companies-can-make-better-decisions
+  -
+    title: About
+    path: /about-ccd
+  -
+    title: Get Involved
+    path: /get-involved
+  -
+    title: Contact Us
+    path: /contact-us

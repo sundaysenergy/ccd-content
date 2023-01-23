@@ -1,5 +1,7 @@
 ---
-title: "About CCD"
+title: About CCD
+date: 2023-01-23T11:14:14.651Z
+dateModified: 2023-01-23T11:14:27.493Z
 ---
 
 ## About CCD

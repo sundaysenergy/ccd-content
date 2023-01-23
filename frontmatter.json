@@ -1,0 +1,143 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "pages",
+      "path": "[[workspace]]/content/pages"
+    }
+  ],
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.data.files": [
+    {
+      "id": "site-meta",
+      "title": "Site Meta",
+      "file": "[[workspace]]/content/data/site-meta.yaml",
+      "fileType": "yaml",
+      "labelField": "site_name",
+      "singleEntry": true,
+      "schema": {
+        "title": "Site Meta Data",
+        "type": "object",
+        "required": [
+          "site_name"
+        ],
+        "properties": {
+          "site_name": {
+            "type": "string",
+            "title": "Site Name"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description"
+          }
+        }
+      }
+    }
+  ],
+  "frontMatter.data.folders": [
+    {
+      "path": "[[workspace]]/content/nav",
+      "id": "nav",
+      "labelField": "name",
+      "schema": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "name": "Navigation Name"
+          },
+          "nav_items": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  ],
+  "frontMatter.framework.id": "other",
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "Date Modified",
+          "name": "dateModified",
+          "isModifiedDate": true,
+          "type": "datetime"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "category",
+          "name": "category",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "Date Modified",
+          "name": "dateModified",
+          "isModifiedDate": true,
+          "type": "datetime"
+        }
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.tags": []
+}

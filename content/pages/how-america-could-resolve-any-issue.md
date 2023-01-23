@@ -1,6 +1,9 @@
 ---
-title: "How America Could Resolve Any Issue"
+title: How America Could Resolve Any Issue
 category: new-way-solve-community-problems
+date: 2023-01-23T11:08:52.943Z
+lastmod: 2023-01-23T11:10:46.968Z
+type: page
 ---
 
 ## How America Could Resolve Any Issue*
